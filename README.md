@@ -17,7 +17,7 @@ It’s designed for users who prefer a simple, visual way to compress and decomp
 - Simple and modern user interface
 - Support for all libbsc compression options
 - One-click compression/decompression
-- Cross-platform (Windows / Linux)
+- Windows for now. maybe add linux later
 
 ---
 
